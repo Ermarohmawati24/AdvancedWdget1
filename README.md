@@ -18,4 +18,4 @@
 Kelas : XI RPL VI<br>
 Absen : 11 <br>
 Sekolah : SMK TELKOM <br>
-NIS : 4704.1423.070
+NIS : 4704/1423.070
